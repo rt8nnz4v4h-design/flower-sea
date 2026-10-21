@@ -1,0 +1,53 @@
+{
+  "totalBytes": 35006723,
+  "assets": [
+    {
+      "path": "models/face_landmarker.task",
+      "bytes": 3758596
+    },
+    {
+      "path": "models/hand_landmarker.task",
+      "bytes": 7819105
+    },
+    {
+      "path": "music/cherry.ogg",
+      "bytes": 314343
+    },
+    {
+      "path": "music/dandelion.ogg",
+      "bytes": 409328
+    },
+    {
+      "path": "music/osmanthus.ogg",
+      "bytes": 290059
+    },
+    {
+      "path": "music/rose.ogg",
+      "bytes": 318184
+    },
+    {
+      "path": "music/serenity.wav",
+      "bytes": 2822444
+    },
+    {
+      "path": "vision/vision_bundle.mjs",
+      "bytes": 136870
+    },
+    {
+      "path": "vision/wasm/vision_wasm_internal.js",
+      "bytes": 209826
+    },
+    {
+      "path": "vision/wasm/vision_wasm_internal.wasm",
+      "bytes": 9423986
+    },
+    {
+      "path": "vision/wasm/vision_wasm_nosimd_internal.js",
+      "bytes": 209735
+    },
+    {
+      "path": "vision/wasm/vision_wasm_nosimd_internal.wasm",
+      "bytes": 9294247
+    }
+  ]
+}
